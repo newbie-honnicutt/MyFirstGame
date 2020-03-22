@@ -1,0 +1,6 @@
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\bin\Tools\MyFirstGame.dll
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\bin\Tools\MyFirstGame.pdb
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\obj\Tools\MyFirstGame.csprojAssemblyReference.cache
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\obj\Tools\MyFirstGame.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\obj\Tools\MyFirstGame.dll
+C:\Users\black\Desktop\MyFirstGame\.mono\temp\obj\Tools\MyFirstGame.pdb
